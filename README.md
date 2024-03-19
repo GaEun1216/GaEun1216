@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj={rkdms6382})](https://solved.ac/{rkdms6382})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rkdms6382)](https://solved.ac/rkdms6382)
