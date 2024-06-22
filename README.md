@@ -26,6 +26,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaEun1216&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rkdms6382)](https://solved.ac/rkdms6382)
 <!--
 **GaEun1216/GaEun1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,4 +42,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rkdms6382)](https://solved.ac/rkdms6382)
