@@ -24,7 +24,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaEun1216&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaEun1216&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rkdms6382)](https://solved.ac/rkdms6382)
 <!--
