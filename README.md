@@ -1,5 +1,5 @@
 ### 반갑습니다! 👋
-### 백엔드 개발자로 구직을 희망하는 이가은입니다.
+
 <a href="https://github.com/GaEun1216"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon207&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/rkdms6382">
 
 ### CLOUD
